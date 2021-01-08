@@ -1,7 +1,7 @@
 package main
 
 import (
-	"guilherme/estudando-go/routes"
+	"estudando-go/routes"
 	"net/http"
 
 	_ "github.com/lib/pq"
